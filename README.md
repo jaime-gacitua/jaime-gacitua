@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaime-gacitua
-- 👀 I’m interested in using technology to make people's lives easier
-- 🌱 I’m currently learning about Machine Learning in AWS
-- 💞️ I’m looking to collaborate on cool data visualizations
+- 👀 Love to see technology improving people's lives
+- 🌱 I’m currently learning DJing
+- 💞️ Looking to collaborate on music production and cool data visualizations
 - 📫 How to reach me jaime at gacitua.com
 
 <!---
