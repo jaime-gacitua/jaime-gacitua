@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaime-gacitua
 - 👀 Love to see technology improving people's lives
-- 🌱 I’m currently learning DJing
-- 💞️ Looking to collaborate on music production and cool data visualizations
+- 🌱 I’m currently learning DJing and music production
+- 💞️ Looking to collaborate on data science projects to automate work, and cool data visualizations
 - 📫 How to reach me jaime at gacitua.com
 
 <!---
