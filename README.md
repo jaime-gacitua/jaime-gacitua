@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @jaime-gacitua
-- 👀 Love to see technology improving people's lives
-- 🌱 I’m currently learning DJing and music production
-- 💞️ Looking to collaborate on data science projects to automate work, and cool data visualizations
-- 📫 How to reach me jaime at gacitua.com
+### AI Product Manager · Data Scientist · Builder
 
-<!---
-jaime-gacitua/jaime-gacitua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Working at the intersection of AI, automation, and
+product — currently at CKM Analytix (remote, NYC)
+
+I'm drawn to problems where AI can genuinely
+replace manual work in business operations.
+
+**Stack I reach for:** Python · dbt · Dagster · LLMs
+
+**Side projects:** Frigate NVR w/ YOLO · Omada networking · Homelab
+**Outside code:** DJing (rekordbox/Lexicon) · hi-fi audio
+
+📬 jaime@gacitua.com
