@@ -8,7 +8,8 @@ replace manual work in business operations.
 
 **Stack I reach for:** Python · dbt · Dagster · LLMs
 
-**Side projects:** Frigate NVR w/ YOLO · Omada networking · Homelab
+**Side projects:** Frigate NVR w/ YOLO · Omada networking · Paperless-{ngx,ai,gpt}
+
 **Outside code:** DJing (rekordbox/Lexicon) · hi-fi audio
 
 📬 jaime@gacitua.com
